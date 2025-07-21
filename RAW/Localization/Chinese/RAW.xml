@@ -12,7 +12,7 @@
     <content contentuid="h0730e799gc410g42f2g9cceg0120ee90b886" version="1">无法指定隐形角色为目标</content><!-- Spell against invisible target -->
 
     <!-- Feat Description -->
-    <content contentuid="h15b473b7gf59dg40f4g9d6bg7015eb159089" version="1">当你在近战范围内进行弩攻击时，&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;不具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;忽略弩的装填属性以进行额外攻击。</content><!-- Crossbow Expert -->
+    <content contentuid="h15b473b7gf59dg40f4g9d6bg7015eb159089" version="1">当你在近战范围内进行弩攻击时，&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;不具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;忽略弩的装填属性以进行额外攻击。</content><!-- Crossbow Expert -->
     <content contentuid="h4671f1fag7c08g4921ga35bg07713c95c4d9" version="1">即使你的武器不是&lt;LSTag Tooltip="Light"&gt;轻型&lt;/LSTag&gt;武器，你也可以使用双武器战斗，你可以在你的回合免费装备两件武器而不是一件；并且当每只手都拿着一件近战武器时，你的&lt;LSTag Tooltip="ArmourClass"&gt;护甲等级&lt;/LSTag&gt;获得 +1 加值。你不能双持&lt;LSTag Tooltip="Heavy"&gt;重型&lt;/LSTag&gt;武器。</content><!-- Dual Wielder -->
 
     <!-- Passive Display Name -->
@@ -33,7 +33,7 @@
     <content contentuid="hfc0ecb86gc504g44f1g9d88g957905740457" version="1">除了疾走、撤离或躲藏之外，你还可以使用你的灵巧动作提供的附赠动作来协助盟友、干扰敌人或投掷物品。</content><!-- Fast Hands -->
     <content contentuid="hd6a0c096gd133g4bc9ga518g80c70fd5d907" version="1">你已经掌握了坠落的艺术，并获得对坠落伤害的抗性。此外，你现在可以使用你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;来增加你的跳跃距离。</content><!-- Second-Story Work -->
     <content contentuid="h85d7c071gf5e1g454fg904eg4f6253bf83c0" version="1">如果你在你的回合采取了攻击动作，你可以使用附赠动作尝试使用盾牌进行推击。</content><!-- Shield Master (Shove) -->
-    <content contentuid="hd8db6255g9df7g4a83g9a83g7ed354602d82" version="1">抛开所有对防御的顾虑，以极度的决心进行攻击。在你的回合的第一次攻击中进行鲁莽攻击会让你在使用力量的近战武器&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;上获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，但对你的攻击投掷直到你的下个回合都具有优势。</content><!-- Reckless Attack -->
+    <content contentuid="hd8db6255g9df7g4a83g9a83g7ed354602d82" version="1">抛开所有对防御的顾虑，以极度的决心进行攻击。在你的回合的第一次攻击中进行鲁莽攻击会让你在使用力量的近战武器&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;上获得&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，但对你的攻击投骰直到你的下个回合都具有优势。</content><!-- Reckless Attack -->
     <content contentuid="ha3c41950g6a08g4bbdg9a88g2c14f3c6e8b7" version="1">只有当所有者使用命令法术时，此召唤物才能行动。</content><!-- Summon Resource Blocked -->
     <content contentuid="h7162476egad83g4f42g8fccg22f6c6e40b37" version="1">当飞出敌人的攻击范围时，不会触发借机攻击。</content><!-- Flyby -->
     <content contentuid="h171c2107gb858g4e96ga500g0d861916042c" version="1">忽略弩的装填属性以进行额外攻击。</content><!-- Crossbow Expert: Wounding -->
@@ -52,11 +52,11 @@
     <!-- Projectile Description -->
     <content contentuid="hc25fd2e1g6a3cg4c99g8690gcf48eabe53a1" version="1">向上、向下和横向跳跃。你的&lt;LSTag Tooltip="Dexterity"&gt;敏捷&lt;/LSTag&gt;会影响你的跳跃距离。</content><!-- Jump Thief -->
     <content contentuid="he87f6103ga16bg459dg889agb0871d51ef92" version="1">投掷一个造成 [1] 点伤害的球体，如果瞄准地面，可能会创造一个表面。或者，选择一种不同的伤害类型。</content><!-- Chromatic Orb -->
-    <content contentuid="h0ba8b53eg3e84g48f1g9f02gcfc823b861cd" version="1">投掷酸蚀能量，对目标造成伤害。如果瞄准地面，会创造一个&lt;LSTag Type="Status" Tooltip="ACID"&gt;酸性&lt;/LSTag&gt;表面。</content><!-- Chromatic Orb: Acid -->
-    <content contentuid="h4ed0c491gf024g401agb82agbd594521004f" version="1">投掷冰冻能量，对目标造成伤害。如果瞄准地面，会创造一个冰霜表面，使生物&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒地&lt;/LSTag&gt;。</content><!-- Chromatic Orb: Cold -->
+    <content contentuid="h0ba8b53eg3e84g48f1g9f02gcfc823b861cd" version="1">投掷强酸能量，对目标造成伤害。如果瞄准地面，会创造一个&lt;LSTag Type="Status" Tooltip="ACID"&gt;强酸&lt;/LSTag&gt;表面。</content><!-- Chromatic Orb: Acid -->
+    <content contentuid="h4ed0c491gf024g401agb82agbd594521004f" version="1">投掷寒冷能量，对目标造成伤害。如果瞄准地面，会创造一个寒冷表面，使生物&lt;LSTag Type="Status" Tooltip="PRONE"&gt;倒地&lt;/LSTag&gt;。</content><!-- Chromatic Orb: Cold -->
     <content contentuid="hce5f50aeg4996g488ega2c7g6fff5e79d85b" version="1">投掷火焰能量，对目标造成伤害。如果瞄准地面，会创造一个&lt;LSTag Type="Status" Tooltip="BURNING"&gt;燃烧&lt;/LSTag&gt;表面。</content><!-- Chromatic Orb: Fire -->
-    <content contentuid="he450b731gd24ag4ee3ga2d4g8faabdf18dea" version="1">投掷闪电能量，对目标造成伤害。如果瞄准地面，会创造一个电场表面。</content><!-- Chromatic Orb: Lightning -->
-    <content contentuid="h023befb4g9bc2g450eg83cdg8ec3bf36237a" version="1">投掷毒性能量，对目标造成伤害。如果瞄准地面，会创造一个冒泡表面，使生物&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;。</content><!-- Chromatic Orb: Poison -->
+    <content contentuid="he450b731gd24ag4ee3ga2d4g8faabdf18dea" version="1">投掷闪电能量，对目标造成伤害。如果瞄准地面，会创造一个带电表面。</content><!-- Chromatic Orb: Lightning -->
+    <content contentuid="h023befb4g9bc2g450eg83cdg8ec3bf36237a" version="1">投掷毒素能量，对目标造成伤害。如果瞄准地面，会创造一个冒泡表面，使生物&lt;LSTag Type="Status" Tooltip="POISONED"&gt;中毒&lt;/LSTag&gt;。</content><!-- Chromatic Orb: Poison -->
     <content contentuid="h8ff59facg4ab1g4356g8753g6ab543485aa2" version="1">投掷一个造成[1]点伤害的球体，如果瞄准地面，可能会创造一个表面。</content><!-- Chromatic Orb (Monk) -->
 
     <!-- Shout Display Name -->
@@ -67,7 +67,7 @@
 
     <!-- Shout Description -->
     <content contentuid="h1aff6b78gc632g459cgbb15g9c17e56b611a" version="1">结束你和你周围队友的&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;。</content><!-- Short Rest -->
-    <content contentuid="h43261ff4gfee1g42f4g9bb3gc6120976fe3d" version="1">直到你下个回合开始，对你进行任何&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，且你进行敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。如果你陷入失能或定身，你将失去此增益。</content><!-- Dodge -->
+    <content contentuid="h43261ff4gfee1g42f4g9bb3gc6120976fe3d" version="1">直到你下个回合开始，对你进行任何&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，且你进行敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。如果你陷入失能或定身，你将失去此增益。</content><!-- Dodge -->
     <content contentuid="he7d837b8g404fg4dbdg85c2g9d69c019d63d" version="1">你可以使用你的附赠动作来进行疾走、撤离或躲藏。</content><!-- Cunning Action -->
     <content contentuid="hbeba3ad3g8801g4a4fg8d77g7507fa9bb7c6" version="1">在&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;期间恢复消耗的&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;。你无法恢复高于 5 环的法术位。</content><!-- Arcane Recovery -->
     <content contentuid="h75e85388g3e7dg4e70g8101g612860c4a857" version="1">在&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;期间恢复消耗的&lt;LSTag Tooltip="SpellSlot"&gt;法术位&lt;/LSTag&gt;。你无法恢复高于 5 环的法术位。</content><!-- Natural Recovery -->
@@ -90,9 +90,9 @@
     
     <!-- Status Boost Description -->
     <content contentuid="h2f4288c1g1e4fg4852g80e1g09db0b94bb3d" version="1">正在进行&lt;LSTag Tooltip="ShortRest"&gt;短休&lt;/LSTag&gt;。</content><!-- Short Rest -->
-    <content contentuid="h910d365egd00ag49abg853agfeec0d6e5137" version="1">专注于躲避攻击。&lt;br&gt;&lt;Br&gt;对受影响实体进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，且该实体在敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;如果你陷入失能或定身，则该状态会被移除。</content><!-- Dodge -->
-    <content contentuid="h25d8863egdaf1g47e3gba46gb6bade9f3a93" version="1">下一个由非干扰来源进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content><!-- Distracted -->
-    <content contentuid="h0d5d7494ga6b3g4f9ag82d3g9cc482ead351" version="1">在其回合内，基于力量的&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。敌人对该目标进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content><!-- Reckless Attack -->
+    <content contentuid="h910d365egd00ag49abg853agfeec0d6e5137" version="1">专注于躲避攻击。&lt;br&gt;&lt;Br&gt;对受影响实体进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;，且该实体在敏捷&lt;LSTag Tooltip="SavingThrow"&gt;豁免检定&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;如果你陷入失能或定身，则该状态会被移除。</content><!-- Dodge -->
+    <content contentuid="h25d8863egdaf1g47e3gba46gb6bade9f3a93" version="1">下一个由非干扰来源进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content><!-- Distracted -->
+    <content contentuid="h0d5d7494ga6b3g4f9ag82d3g9cc482ead351" version="1">在其回合内，基于力量的&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。敌人对该目标进行&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content><!-- Reckless Attack -->
     <content contentuid="h4507b659g8c44g4f43gaf5cgb83ac55eec62" version="1">一个已稳定的角色不再需要进行死亡豁免检定，且在脱离战斗后恢复 [1] 生命值。</content><!-- Stabilized -->
     <content contentuid="h518c02f3gda53g498dg95e8g21599aaae760" version="1">该召唤物可以行动，因为它的主人命令了它。</content><!-- Summon Resource Allowed -->
     <content contentuid="he3c1c67bgae0cg4968ga86egd2b1325c01b3" version="1">身处风暴中时，该角色可能成为闪电束的目标</content><!-- Call Lightning -->
@@ -117,13 +117,13 @@
 
     <!-- Status Invisible Description -->
     <content contentuid="h47b01802gf74dg4c95g94adg9cc5fc2dea5a" version="1">该实体完全无法被敌人察觉，直到它失去隐形或其&lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;隐蔽&lt;/LSTag&gt;状态。</content><!-- Invisibility Sneaking Technical -->
-    <content contentuid="h11f06e65g400bg4724g9e24ge9b0de4c8e3d" version="1">对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投掷施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;如果隐形实体攻击或施放另一个法术，隐形会提前结束。</content><!-- Invisible / Invisibility -->
-    <content contentuid="hd58ffa12g127cg4a27g83efg989e5fa1a4ec" version="1">受影响的实体是隐形的。它对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投掷施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;如果隐形实体移动、攻击或施放另一个法术，隐形会提前结束。</content><!-- One With Shadows -->
-    <content contentuid="hed9a0784g6767g4099ga49cg55527e6b64f0" version="1">对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投掷施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;攻击、施放法术或进入光线明亮的区域会结束此状态。</content><!-- Cloak of Shadows (Monk) -->
-    <content contentuid="h81258024g2d63g4afag92ecgc64bb136d956" version="1">对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投掷施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content><!-- Greater Invisibility -->
-    <content contentuid="h3b6dd94dg17c8g4f4egbd7dga67485beef35" version="1">受影响的实体是隐形的。它对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投掷施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;攻击、施放法术或进入光线明亮的区域会结束此状态。</content><!-- Shadowblend -->
-    <content contentuid="h8fadec97gcad8g4b7eg9528g8c80dde94805" version="1">对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投掷施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;攻击或施放非&lt;LSTag Type="Spell" Tooltip="Target_MistyEscape_ShadarKai_GloomWeaver"&gt;幽影步&lt;/LSTag&gt;的法术会结束此状态。</content><!-- Invisibility ShadarKai Gloomweaver -->
-    <content contentuid="hd63af1fag49c2g4ba2g9e42gc1b5bf4c48d6" version="1">受影响的实体是隐形的。它对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投掷施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。它在隐匿&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有 +[1] 加值。&lt;br&gt;&lt;br&gt;如果隐形实体移动、攻击或施放另一个法术，隐形会提前结束。</content><!-- Hide in Plain Sight -->
+    <content contentuid="h11f06e65g400bg4724g9e24ge9b0de4c8e3d" version="1">对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投骰施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;如果隐形实体攻击或施放另一个法术，隐形会提前结束。</content><!-- Invisible / Invisibility -->
+    <content contentuid="hd58ffa12g127cg4a27g83efg989e5fa1a4ec" version="1">受影响的实体是隐形的。它对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投骰施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;如果隐形实体移动、攻击或施放另一个法术，隐形会提前结束。</content><!-- One With Shadows -->
+    <content contentuid="hed9a0784g6767g4099ga49cg55527e6b64f0" version="1">对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投骰施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;攻击、施放法术或进入光线明亮的区域会结束此状态。</content><!-- Cloak of Shadows (Monk) -->
+    <content contentuid="h81258024g2d63g4afag92ecgc64bb136d956" version="1">对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投骰施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content><!-- Greater Invisibility -->
+    <content contentuid="h3b6dd94dg17c8g4f4egbd7dga67485beef35" version="1">受影响的实体是隐形的。它对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投骰施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;攻击、施放法术或进入光线明亮的区域会结束此状态。</content><!-- Shadowblend -->
+    <content contentuid="h8fadec97gcad8g4b7eg9528g8c80dde94805" version="1">对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投骰施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;Br&gt;攻击或施放非&lt;LSTag Type="Spell" Tooltip="Target_MistyEscape_ShadarKai_GloomWeaver"&gt;幽影步&lt;/LSTag&gt;的法术会结束此状态。</content><!-- Invisibility ShadarKai Gloomweaver -->
+    <content contentuid="hd63af1fag49c2g4ba2g9e42gc1b5bf4c48d6" version="1">受影响的实体是隐形的。它对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并对不能识破隐形的敌人进行攻击投骰施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。它在隐匿&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;具有 +[1] 加值。&lt;br&gt;&lt;br&gt;如果隐形实体移动、攻击或施放另一个法术，隐形会提前结束。</content><!-- Hide in Plain Sight -->
 
     <!-- Status Knocked Downed Description -->
     <content contentuid="hf9fcc402g8592g454cga793g52f04804a411" version="1">无法移动或采取动作、附赠动作或反应。&lt;br&gt;&lt;br&gt;对倒地生物进行攻击，如果在该生物 [1] 范围内进行，则具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，否则具有&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。&lt;br&gt;&lt;br&gt;一个倒地的生物必须花费其一半的&lt;LSTag Tooltip="MovementSpeed"&gt;移动速度&lt;/LSTag&gt;才能站起来。</content><!-- Prone -->
@@ -142,14 +142,14 @@
     <content contentuid="h29df2d23ga713g4cf9gaacdg7cf61bb3b2ee" version="1">推击目标。你可以尝试将其击退或击倒。</content><!-- Shove Player -->
     <content contentuid="h8cd12a69g8980g4a55g8737g3f6183de78c1" version="1">推击目标以将其击倒。</content><!-- Shove Prone -->
     <content contentuid="hd49325f3gea4dg4b6fg8880gf6cc96f50a39" version="1">用你的盾牌推击目标。你可以尝试将其击退或击倒。</content><!-- Shove Shield Master -->
-    <content contentuid="h8a5eb4d5g32beg46b6g9c83g8b4832766545" version="1">佯攻、分散目标的注意力，或以其他方式配合，使你的盟友在你的下个回合之前进行的下一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content><!-- Distract -->
+    <content contentuid="h8a5eb4d5g32beg46b6g9c83g8b4832766545" version="1">佯攻、分散目标的注意力，或以其他方式配合，使你的盟友在你的下个回合之前进行的下一次&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;。</content><!-- Distract -->
     <content contentuid="h32d73faeg184cg419bg8fb6gdd67958d7817" version="1">进行难度等级 10 的&lt;LSTag Tooltip="Medicine"&gt;医药&lt;/LSTag&gt;&lt;LSTag Tooltip="AbilityCheck"&gt;检定&lt;/LSTag&gt;以稳定&lt;LSTag Tooltip="Downed"&gt;昏迷&lt;/LSTag&gt;角色。</content><!-- Help -->
     <content contentuid="hc01e959cg7d3dg4542gac9fg68099deb9746" version="1">使用你的附赠动作来命令你的召唤物行动。</content><!-- Summon Command -->
     <content contentuid="h9204dac0g5de4g4199ga876g8eb69468ee8a" version="1">使生物进入魔法沉睡。区域内的目标会按照其当前生命值的升序受到影响（忽略无意识的生物），总计最多 [1] 目标。</content><!-- Sleep -->
     <content contentuid="h63b15a52g69efg4c70g93acge877ff55d83e" version="1">在目标区域创造一个风暴云。然后，你可以召唤落雷击中风暴内的区域，打击所有目标。在接下来的 10 回合中，你可以使用一个动作再次召唤落雷。</content><!-- Call Lightning -->
     <content contentuid="hd58f9063g3911g45aag9236g2115019b3240" version="1">解除生物身上的假死效果。</content><!-- Feign Death: Dismiss -->
-    <content contentuid="h18ef7f55gdaf3g435fg9e90ga93cfb6d5eaf" version="1">触摸一个生物，使其&lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;隐形&lt;/LSTag&gt;。它在&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并且对看不到隐形敌人的攻击投掷施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content><!-- Invisibility -->
-    <content contentuid="hc207157bg97a8g45ebg8946g67866b4bda43" version="1">使一个生物&lt;LSTag Type="Status" Tooltip="GREATER_INVISIBILITY"&gt;高等隐形&lt;/LSTag&gt;。它在&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并且对看不到隐形敌人的攻击投掷施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content><!-- Greater Invisibility -->
+    <content contentuid="h18ef7f55gdaf3g435fg9e90ga93cfb6d5eaf" version="1">触摸一个生物，使其&lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;隐形&lt;/LSTag&gt;。它在&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并且对看不到隐形敌人的攻击投骰施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content><!-- Invisibility -->
+    <content contentuid="hc207157bg97a8g45ebg8946g67866b4bda43" version="1">使一个生物&lt;LSTag Type="Status" Tooltip="GREATER_INVISIBILITY"&gt;高等隐形&lt;/LSTag&gt;。它在&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;具有&lt;LSTag Tooltip="Advantage"&gt;优势&lt;/LSTag&gt;，并且对看不到隐形敌人的攻击投骰施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content><!-- Greater Invisibility -->
     <content contentuid="hf128eaa8g9fb1g4a91g92eegf734365be5dc" version="1">在采取攻击动作后，花费 [1] 气点以一个&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;附赠动作&lt;/LSTag&gt;进行两次徒手打击。&lt;br&gt;这些攻击不需要针对同一目标。</content><!-- Flurry of Blows -->
     <content contentuid="h760f0714ge733g4055g8135gaa7947530d70" version="1">踢一个目标。</content><!-- Default Unarmed Attack -->
     
@@ -176,7 +176,7 @@
     <!-- Throw Extra Description -->
     <content contentuid="hf080f971g5582g46d8g8938gdb8c8b560d42" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;会影响你可以投掷的重量。较重的物品会造成更多伤害。</content><!-- Throw -->
     <content contentuid="h6da3fafbgfe47g420fgb449g9756dc4146fe" version="1">你的&lt;LSTag Tooltip="Strength"&gt;力量&lt;/LSTag&gt;会影响你可以投掷的重量。</content><!-- Throw Cunning Action -->
-    <content contentuid="h12c219aag52b4g4a22gb0e3g160edbaffbb7" version="1">攻击距离超过正常范围（标枪为 [1] ，其他武器为 [2] ）会对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投掷&lt;/LSTag&gt;施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content><!-- Throw Weapon -->
+    <content contentuid="h12c219aag52b4g4a22gb0e3g160edbaffbb7" version="1">攻击距离超过正常范围（标枪为 [1] ，其他武器为 [2] ）会对&lt;LSTag Tooltip="AttackRoll"&gt;攻击投骰&lt;/LSTag&gt;施加&lt;LSTag Tooltip="Disadvantage"&gt;劣势&lt;/LSTag&gt;。</content><!-- Throw Weapon -->
 
     <!-- Tooltip Extra Texts -->
     <content contentuid="hc2a51188g0925g4599g981bg32cd90d92c01" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 如果你攻击或施放另一个法术，隐形效果会提前结束。</content>
